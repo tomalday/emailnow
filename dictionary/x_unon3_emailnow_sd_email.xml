@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="ITSD Email" max_length="40" name="x_unon3_emailnow_sd_email" sizeclass="701" type="collection">
+        <element choice="1" label="Action" max_length="40" name="action" type="choice">
+            <choice>
+                <element hint="Creat an Incident for the Assignment Group chosen" label="INC to Group" sequence="0" value="togroup"/>
+                <element label="ITSD Quick Incident" sequence="1" value="quickcall"/>
+                <element label="Xfer to DETI" sequence="2" value="deti"/>
+                <element label="Xfer to Webteam" sequence="3" value="webteam"/>
+                <element label="Close" sequence="4" value="close"/>
+            </choice>
+        </element>
+        <element label="Body" max_length="1000" name="body" type="string"/>
+        <element label="ITSD Tech" mandatory="true" max_length="32" name="itsd_tech" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element hint="If the Sender is in AD, add them to this field" label="Matched User" max_length="32" name="matched_user" reference="sys_user" type="reference"/>
+        <element hint="The email sender. May not be an active AD account" label="Sender" max_length="100" name="sender" type="string"/>
+        <element label="Subject" max_length="200" name="subject" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>sd_email</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>sd_email</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">1dcd09e968bcc100160d560a801e98f1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-02-15 16:07:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5326dfe937905340292edaa543990e7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sd_email</sys_name>
+        <sys_package display_value="emailnow" source="x_unon3_emailnow">b75597e537905340292edaa543990e52</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="emailnow">b75597e537905340292edaa543990e52</sys_scope>
+        <sys_update_name>sys_wizard_answer_5326dfe937905340292edaa543990e7e</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-02-15 16:07:20</sys_updated_on>
+        <table/>
+        <target_url>x_unon3_emailnow_sd_email.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

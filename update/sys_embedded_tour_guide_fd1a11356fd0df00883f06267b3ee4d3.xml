@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autolaunch_order>0</autolaunch_order>
+        <context>x_unon3_emailnow_sd_email</context>
+        <description/>
+        <name>ITSD Emails Tour</name>
+        <options/>
+        <roles>u_servicedesk_task_user</roles>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-02-16 01:43:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>fd1a11356fd0df00883f06267b3ee4d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSD Emails Tour</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="emailnow" source="x_unon3_emailnow">b75597e537905340292edaa543990e52</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="emailnow">b75597e537905340292edaa543990e52</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_fd1a11356fd0df00883f06267b3ee4d3</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-02-16 01:43:41</sys_updated_on>
+    </sys_embedded_tour_guide>
+</record_update>

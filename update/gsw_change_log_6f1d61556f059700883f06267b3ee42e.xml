@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2018-03-23 20:36:57</change_date>
+        <changed_by display_value="Tom Alday">c5ba7e640cbe950083f3955bf53f8938</changed_by>
+        <content display_value="Escape HTML *">1e58c3a711232200964f016bcc1bdd51</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-03-23 20:36:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6f1d61556f059700883f06267b3ee42e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2018-03-23 20:36:57</sys_name>
+        <sys_package display_value="emailnow" source="x_unon3_emailnow">b75597e537905340292edaa543990e52</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="emailnow">b75597e537905340292edaa543990e52</sys_scope>
+        <sys_update_name>gsw_change_log_6f1d61556f059700883f06267b3ee42e</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-03-23 20:36:57</sys_updated_on>
+        <type>2</type>
+    </gsw_change_log>
+</record_update>

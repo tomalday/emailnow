@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notes" section_id="7fbf676137145340292edaa543990e29" sys_domain="global" table="x_unon3_emailnow_sd_email" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-02-15 17:59:27</sys_created_on>
+            <sys_id>6ddf236137145340292edaa543990eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_unon3_emailnow_sd_email" sys_domain="global" view="Default view">7fbf676137145340292edaa543990e29</sys_ui_section>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-02-15 17:59:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-02-15 17:59:27</sys_created_on>
+            <sys_id>e1df236137145340292edaa543990eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_unon3_emailnow_sd_email" sys_domain="global" view="Default view">7fbf676137145340292edaa543990e29</sys_ui_section>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-02-15 17:59:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-02-15 17:59:28</sys_created_on>
+            <sys_id>65df236137145340292edaa543990eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_unon3_emailnow_sd_email" sys_domain="global" view="Default view">7fbf676137145340292edaa543990e29</sys_ui_section>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-02-15 17:59:28</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_unon3_emailnow_sd_email</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-02-15 17:59:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>7fbf676137145340292edaa543990e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="emailnow" source="x_unon3_emailnow">b75597e537905340292edaa543990e52</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="emailnow">b75597e537905340292edaa543990e52</sys_scope>
+            <sys_update_name>sys_ui_section_7fbf676137145340292edaa543990e29</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-02-15 17:59:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
